@@ -1,19 +1,19 @@
 {
-  "version": "0.3.7",
+  "version": "0.3.8",
   "notes": "## Qu\u00c3\u00a9 hay de nuevo en esta versi\u00c3\u00b3n\nActualiz\u00c3\u00a1 desde la app o descarg\u00c3\u00a1 el instalador abajo.",
-  "pub_date": "2026-06-12T03:53:29.528Z",
+  "pub_date": "2026-06-12T04:37:24.440Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEditWRGVzSnFRTEpXUW5MUVREZGtZV3hwSUptS3VicnZzOGRnNHMrT1YzL2huUG95ZFh2K21aYi9EbDZZclp6Vkk5Nitmd2pqQmE1Rk9xWEFSWUJPOXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjM2NDA1CWZpbGU6UmVzaWRlbmNpYXNfMC4zLjdfeDY0X2VzLUVTLm1zaQpSS2RPTTJITWp3TjB2Uzg3QTJxa3Byb01qekJ4QWFXK2dET3ZlUWQyTHFBckNxQndRR0JyRzU5YWNVaVBFMm5DSzA4cllpTWZSYUZCT3hRZ0RBR2xEdz09Cg==",
-      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.7/Residencias_0.3.7_x64_es-ES.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdng5bCtJT1FieDNMaWNHT29ERTY4b0pxbk5TUFVGNVJ2N0d0S0pydWsyNUVCZmlKUmJWYnlTbnhJSTVRMDV2Zm9tM2VKR2piYzJVRnBSSGtwb0tWb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjM5MDQwCWZpbGU6UmVzaWRlbmNpYXNfMC4zLjhfeDY0X2VzLUVTLm1zaQprS1dRSnV0UG5SZWVZeUlKTTEzMiszTVlOUU1GUjdsYzlaLzlhM1o1WGdsVzQ4am16TUdKL0lZc1JhRDNpd2s3ZEgremxKOGFGZFB3aGFoczJTMXlBQT09Cg==",
+      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.8/Residencias_0.3.8_x64_es-ES.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEditWRGVzSnFRTEpXUW5MUVREZGtZV3hwSUptS3VicnZzOGRnNHMrT1YzL2huUG95ZFh2K21aYi9EbDZZclp6Vkk5Nitmd2pqQmE1Rk9xWEFSWUJPOXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjM2NDA1CWZpbGU6UmVzaWRlbmNpYXNfMC4zLjdfeDY0X2VzLUVTLm1zaQpSS2RPTTJITWp3TjB2Uzg3QTJxa3Byb01qekJ4QWFXK2dET3ZlUWQyTHFBckNxQndRR0JyRzU5YWNVaVBFMm5DSzA4cllpTWZSYUZCT3hRZ0RBR2xEdz09Cg==",
-      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.7/Residencias_0.3.7_x64_es-ES.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdng5bCtJT1FieDNMaWNHT29ERTY4b0pxbk5TUFVGNVJ2N0d0S0pydWsyNUVCZmlKUmJWYnlTbnhJSTVRMDV2Zm9tM2VKR2piYzJVRnBSSGtwb0tWb2dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjM5MDQwCWZpbGU6UmVzaWRlbmNpYXNfMC4zLjhfeDY0X2VzLUVTLm1zaQprS1dRSnV0UG5SZWVZeUlKTTEzMiszTVlOUU1GUjdsYzlaLzlhM1o1WGdsVzQ4am16TUdKL0lZc1JhRDNpd2s3ZEgremxKOGFGZFB3aGFoczJTMXlBQT09Cg==",
+      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.8/Residencias_0.3.8_x64_es-ES.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdjQyRHU3anNjZHhoMEhpcGh1Ym9KRFRnMHg4bUtxbGJBSGRTSytObXBrTUpDVFArazBEREpnZG5wbkI3YWhzdmFhK0Zybk4zVkZ4T0tyTW10aGJyclF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjM2NDA1CWZpbGU6UmVzaWRlbmNpYXNfMC4zLjdfeDY0LXNldHVwLmV4ZQpNOVpQWHhjbVA5Nk05dGhkbk16N1hqUmxQNExLemVaZlRvTDc2ZDVqYldVV0VTS0ZqbnplRnRRczNtMmVKYVpDYUcwd0Y2Z3A3emY4YTRDMm1GMnVEUT09Cg==",
-      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.7/Residencias_0.3.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdjh2UGVDMU95TEFIallWRkg5VU54SExnbWx3SE5GZG8xRXVZbWt5YUdtNEhXTU10MTF2SjQrYi9UemNjV2lDMTdpVWIya0FtY2tOM1BZV0k4Q3hHMFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMjM5MDQwCWZpbGU6UmVzaWRlbmNpYXNfMC4zLjhfeDY0LXNldHVwLmV4ZQpTRWtwejlZNktLOFdxM29DNHJOSTJsVmNadUhEekU5cVFjcGpqU1F0UWpkem1xMFAxd2ZBaFFEL2JwSnpvMysxeFBveXkyVW5MWW1YV3RYZWxPM0NEQT09Cg==",
+      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.8/Residencias_0.3.8_x64-setup.exe"
     }
   }
 }
