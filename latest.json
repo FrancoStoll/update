@@ -1,19 +1,19 @@
 {
-  "version": "0.3.34",
+  "version": "0.3.35",
   "notes": "## Qu\u00c3\u00a9 hay de nuevo en esta versi\u00c3\u00b3n\nActualiz\u00c3\u00a1 desde la app o descarg\u00c3\u00a1 el instalador abajo.",
-  "pub_date": "2026-07-27T17:50:50.793Z",
+  "pub_date": "2026-07-27T21:41:29.533Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdjUxVzJaQ3VUQzlML3BqNVlZb2FSSEJ1M0NTQ2hLQVRYc3NxWFd5MDlrUHBKR0lycUQ0Y1NnVVVoKzZxUGxxZ00rQzlnU1piNUtWWldBN3B6YWYyYVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTc0NjQ2CWZpbGU6U0lHUkFfMC4zLjM0X3g2NF9lcy1FUy5tc2kKVmFpOFBkOFhSVk5ZR2ZxOHdtbTlLNDFzb2xTZm5xb3YxMzVLQ2tMWVRUZThtOE9vMFNDYWdscjdQdGVFcHdIRUJiR2VlQVFQS3oyVzhybGVZaHg0REE9PQo=",
-      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.34/SIGRA_0.3.34_x64_es-ES.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdi96OFN0RTJUMVZuL0lXSHdTWitYTERNZy9TYjZjUllPUjY5WGxIU0U0L08rTDhCNHdjTzF5eDhtZHNBRkdWNkVMWXR6TEMyM1FITStqQVdoeFRnaUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTg4NDg0CWZpbGU6U0lHUkFfMC4zLjM1X3g2NF9lcy1FUy5tc2kKaWZPMi9ZQzV3Z2xYY1lldllvcVo0Si9odTM1MU56eUFYWnRMK0hFUTlEV1lJbW5kR1c1dFUzZit6SndXOThJNktCbFVjRXNzMWx4VEVlT3hGeHJiRHc9PQo=",
+      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.35/SIGRA_0.3.35_x64_es-ES.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdjUxVzJaQ3VUQzlML3BqNVlZb2FSSEJ1M0NTQ2hLQVRYc3NxWFd5MDlrUHBKR0lycUQ0Y1NnVVVoKzZxUGxxZ00rQzlnU1piNUtWWldBN3B6YWYyYVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTc0NjQ2CWZpbGU6U0lHUkFfMC4zLjM0X3g2NF9lcy1FUy5tc2kKVmFpOFBkOFhSVk5ZR2ZxOHdtbTlLNDFzb2xTZm5xb3YxMzVLQ2tMWVRUZThtOE9vMFNDYWdscjdQdGVFcHdIRUJiR2VlQVFQS3oyVzhybGVZaHg0REE9PQo=",
-      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.34/SIGRA_0.3.34_x64_es-ES.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdi96OFN0RTJUMVZuL0lXSHdTWitYTERNZy9TYjZjUllPUjY5WGxIU0U0L08rTDhCNHdjTzF5eDhtZHNBRkdWNkVMWXR6TEMyM1FITStqQVdoeFRnaUFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTg4NDg0CWZpbGU6U0lHUkFfMC4zLjM1X3g2NF9lcy1FUy5tc2kKaWZPMi9ZQzV3Z2xYY1lldllvcVo0Si9odTM1MU56eUFYWnRMK0hFUTlEV1lJbW5kR1c1dFUzZit6SndXOThJNktCbFVjRXNzMWx4VEVlT3hGeHJiRHc9PQo=",
+      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.35/SIGRA_0.3.35_x64_es-ES.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdjdDRkZpa3B6SGdvbGo2clVSRUcyZjcrVTBHUis4YWlWY3h2ZlR6enBTMGNpNE1CYVd5dFlQRmpvTmNNZmpVaDdKZHFiTmk2UncrRCs0ZGw0ZTUwVWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTc0NjQ2CWZpbGU6U0lHUkFfMC4zLjM0X3g2NC1zZXR1cC5leGUKSi8zQWxSYTFYR2g0UkNvY3BVZERYZ002NzIxOGkzeVlRcVlEYzZDZVdqSzJXYWdCajgyT3Q3TytTZ2I5MWM0UStUZHp2djdMU2NiNGVrMDRTQlU3Qmc9PQo=",
-      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.34/SIGRA_0.3.34_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeXJyQlVDNGZEdi9LRzlrQjRnQzFjamxqdFZ4by9CSFF4MVhvZkM2VkFhWUlKcG1lUVZCRHJkODJqd0dTU1QvMjBrQmc3TE1hTy8vNG5FbFA1QjE0QUt3bmhaWDl4YUFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MTg4NDg0CWZpbGU6U0lHUkFfMC4zLjM1X3g2NC1zZXR1cC5leGUKMHBHWDRCNkhZdGc0cnA4WVVCdjRKZWV0Qnl4bnNwQmdXVGpxanJWM0NqQkY5SUlPMzRjdklPS2xhSWFPT3FyUEVPa1FHSzY4MWYrV1Z0eFZsL09IQ1E9PQo=",
+      "url": "https://github.com/FrancoStoll/update/releases/download/v0.3.35/SIGRA_0.3.35_x64-setup.exe"
     }
   }
 }
